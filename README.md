@@ -27,8 +27,12 @@
    A database management system using Oracle and MS Access to store and query student records.  
 
 3. **🛒 E-Commerce Store (C++)**  
-   A console-based e-commerce application built in C++ with OOP principles.  
-
+   A console-based e-commerce application built in C++ with OOP principles.
+   
+4. **🐱 Cat Generator (fetch api)**
+   A fun and interactive web app that generates random cat images from **The Cat API**, plays a cute meow sound, and displays colorful confetti whenever you get a new cat.  
+   You can trigger it by clicking a button or pressing the **Space** key.
+    [🔗 View Repository](https://github.com/maira32/Cat-Generator)
 ---
 
 ## 📫 Contact Me
