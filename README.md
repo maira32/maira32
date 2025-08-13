@@ -23,13 +23,17 @@
    A simple two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
    [🔗 View Repository](https://github.com/maira32/tic-tac-toe)
 
-2. **🎓 Student Database Management**  
+2. **🌍 Currency Converter**
+A simple, responsive currency converter using HTML, CSS, JS, and real-time ExchangeRate API.
+ [🔗 View Repository](https://github.com/maira32/CurrenSee)
+
+4. **🎓 Student Database Management**  
    A database management system using Oracle and MS Access to store and query student records.  
 
-3. **🛒 E-Commerce Store (C++)**  
+5. **🛒 E-Commerce Store (C++)**  
    A console-based e-commerce application built in C++ with OOP principles.
    
-4. **🐱 Cat Generator (fetch api)**
+6. **🐱 Cat Generator (fetch api)**
    A fun and interactive web app that generates random cat images from **The Cat API**, plays a cute meow sound, and displays colorful confetti whenever you get a new cat.  
    You can trigger it by clicking a button or pressing the **Space** key.
     [🔗 View Repository](https://github.com/maira32/Cat-Generator)
