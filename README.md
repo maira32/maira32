@@ -42,6 +42,10 @@ A simple, responsive currency converter using HTML, CSS, JS, and real-time Excha
 7. **🚚 Move It
    MOVIT is a dummy website built while learning Bootstrap. It represents a fictional home-shifting service that helps users move their homes easily.
     [🔗 View Repository](https://github.com/maira32/Move-It)
+
+8. ** 🍔🚴‍♂️ Uber Eats UI Prototype
+   This project is a **clickable front-end UI prototype** of the Uber Eats application, created using **Pencil Project**.
+    [🔗 View Repository](https://github.com/maira32/Uber-Eats-ui-prototype)
 ---
 
 ## 📫 Contact Me
