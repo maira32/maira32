@@ -39,11 +39,11 @@ A simple, responsive currency converter using HTML, CSS, JS, and real-time Excha
    You can trigger it by clicking a button or pressing the **Space** key.
     [🔗 View Repository](https://github.com/maira32/Cat-Generator)
 
-7. **🚚 Move It
+7. **🚚 Move It**
    MOVIT is a dummy website built while learning Bootstrap. It represents a fictional home-shifting service that helps users move their homes easily.
     [🔗 View Repository](https://github.com/maira32/Move-It)
 
-8. ** 🍔🚴‍♂️ Uber Eats UI Prototype
+8. ** 🍔🚴‍♂️ Uber Eats UI Prototype**
    This project is a **clickable front-end UI prototype** of the Uber Eats application, created using **Pencil Project**.
     [🔗 View Repository](https://github.com/maira32/Uber-Eats-ui-prototype)
 ---
