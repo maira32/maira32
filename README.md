@@ -50,6 +50,12 @@ A simple, responsive currency converter using HTML, CSS, JS, and real-time Excha
 8. **🍔🚴‍♂️ Uber Eats UI Prototype**
    This project is a **clickable front-end UI prototype** of the Uber Eats application, created using **Pencil Project**.
     [🔗 View Repository](https://github.com/maira32/Uber-Eats-ui-prototype)
+
+9. **🍔 Uber Eats Prototype (Figma)**
+   A UI/UX design prototype of a food delivery app inspired by **Uber Eats**, created in **Figma**.  
+   The `.fig` file is included in this repository so you can open and explore the design directly in Figma.
+    [🔗 View Repository](https://github.com/maira32/ [🔗 View Repository](https://github.com/maira32/Uber-Eats-ui-prototype))
+
 ---
 
 ## 📫 Contact Me
