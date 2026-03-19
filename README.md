@@ -45,7 +45,7 @@ A simple, responsive currency converter using HTML, CSS, JS, and real-time Excha
 
 7. 🤖 **LogicBot (Logic Prover)**  
 A chatbot-like logic prover that takes a premise and conclusion as input and applies rules of inference and replacement to verify logical validity.  
-  [🔗 View Repository](https://github.com/maira32/Cat-Generator)
+  [🔗 View Repository](https://github.com/maira32/logic-prover-react)
 
 8. **🚚 Move It**
    MOVIT is a dummy website built while learning Bootstrap. It represents a fictional home-shifting service that helps users move their homes easily.
