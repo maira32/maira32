@@ -43,15 +43,19 @@ A simple, responsive currency converter using HTML, CSS, JS, and real-time Excha
    You can trigger it by clicking a button or pressing the **Space** key.
     [🔗 View Repository](https://github.com/maira32/Cat-Generator)
 
-7. **🚚 Move It**
+7. 🤖 **LogicBot (Logic Prover)**  
+A chatbot-like logic prover that takes a premise and conclusion as input and applies rules of inference and replacement to verify logical validity.  
+  [🔗 View Repository](https://github.com/maira32/Cat-Generator)
+
+8. **🚚 Move It**
    MOVIT is a dummy website built while learning Bootstrap. It represents a fictional home-shifting service that helps users move their homes easily.
     [🔗 View Repository](https://github.com/maira32/Move-It)
 
-8. **🍔🚴‍♂️ Uber Eats UI Prototype**
+9. **🍔🚴‍♂️ Uber Eats UI Prototype**
    This project is a **clickable front-end UI prototype** of the Uber Eats application, created using **Pencil Project**.
     [🔗 View Repository](https://github.com/maira32/Uber-Eats-ui-prototype)
 
-9. **🍔 Uber Eats Prototype (Figma)**
+10. **🍔 Uber Eats Prototype (Figma)**
    A UI/UX design prototype of a food delivery app inspired by **Uber Eats**, created in **Figma**.  
    The `.fig` file is included in this repository so you can open and explore the design directly in Figma.
     [🔗 View Repository](https://github.com/maira32/Uber-Eats-Figma)
