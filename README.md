@@ -32,6 +32,10 @@
 A simple, responsive currency converter using HTML, CSS, JS, and real-time ExchangeRate API.
  [🔗 View Repository](https://github.com/maira32/CurrenSee)
 
+3. 💬 **AI ChatBot (React)**  
+A responsive chatbot application built with React that answers user queries, featuring an interactive UI with light and dark mode functionality.  
+[🔗 View Repository](https://github.com/maira32/Chatbot)
+
 4. **🎓 Student Database Management**  
    A database management system using Oracle and MS Access to store and query student records.  
 
