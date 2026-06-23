@@ -1,6 +1,6 @@
 # Hi, I'm Maira 👋
 
-💡 **Tagline:** *"Aspiring Frontend Developer | Turning Code into Clean, Functional, and Creative Solutions"*  
+💡 **Tagline:** *"Full Stack Developer | Turning Code into Clean, Functional, and Creative Solutions"*  
 
 🌱 Currently learning and building projects using modern web and programming technologies.  
 💻 Passionate about solving problems and creating user-friendly digital experiences.
@@ -29,42 +29,46 @@
 ---
 
 ## 📌 Featured Projects
-1. **🎮 Tic-Tac-Toe Game**  
+1. **🏠 HostelHub (MERN Stack Project)**  
+   A full-stack hostel management system built using **MongoDB, Express.js, React.js, and Node.js**. Hostel owners can manage their hostel residents, store student records, and organize hostel data efficiently through a database-powered web application. Features include a responsive UI, backend APIs, database integration and launched on vercel.
+    [🔗 View Repository](https://github.com/maira32/tic-tac-toe)
+   
+3. **🎮 Tic-Tac-Toe Game**  
    A simple two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
    [🔗 View Repository](https://github.com/maira32/tic-tac-toe)
 
-2. **🌍 Currency Converter**
+4. **🌍 Currency Converter**
 A simple, responsive currency converter using HTML, CSS, JS, and real-time ExchangeRate API.
  [🔗 View Repository](https://github.com/maira32/CurrenSee)
 
-3. 💬 **AI ChatBot (React)**  
+5. 💬 **AI ChatBot (React)**  
 A responsive chatbot application built with React that answers user queries, featuring an interactive UI with light and dark mode functionality.  
 [🔗 View Repository](https://github.com/maira32/Chatbot)
 
-4. **🎓 Student Database Management**  
+6. **🎓 Student Database Management**  
    A database management system using Oracle and MS Access to store and query student records.  
 
-5. **🛒 E-Commerce Store (C++)**  
+7. **🛒 E-Commerce Store (C++)**  
    A console-based e-commerce application built in C++ with OOP principles.
    
-6. **🐱 Cat Generator (fetch api)**
+8. **🐱 Cat Generator (fetch api)**
    A fun and interactive web app that generates random cat images from **The Cat API**, plays a cute meow sound, and displays colorful confetti whenever you get a new cat.  
    You can trigger it by clicking a button or pressing the **Space** key.
     [🔗 View Repository](https://github.com/maira32/Cat-Generator)
 
-7. 🤖 **LogicBot (Logic Prover)**  
+9. 🤖 **LogicBot (Logic Prover)**  
 A chatbot-like logic prover that takes a premise and conclusion as input and applies rules of inference and replacement to verify logical validity.  
   [🔗 View Repository](https://github.com/maira32/logic-prover-react)
 
-8. **🚚 Move It**
+10. **🚚 Move It**
    MOVIT is a dummy website built while learning Bootstrap. It represents a fictional home-shifting service that helps users move their homes easily.
     [🔗 View Repository](https://github.com/maira32/Move-It)
 
-9. **🍔🚴‍♂️ Uber Eats UI Prototype**
+11. **🍔🚴‍♂️ Uber Eats UI Prototype**
    This project is a **clickable front-end UI prototype** of the Uber Eats application, created using **Pencil Project**.
     [🔗 View Repository](https://github.com/maira32/Uber-Eats-ui-prototype)
 
-10. **🍔 Uber Eats Prototype (Figma)**
+12. **🍔 Uber Eats Prototype (Figma)**
    A UI/UX design prototype of a food delivery app inspired by **Uber Eats**, created in **Figma**.  
    The `.fig` file is included in this repository so you can open and explore the design directly in Figma.
     [🔗 View Repository](https://github.com/maira32/Uber-Eats-Figma)
