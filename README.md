@@ -34,7 +34,7 @@
     [🔗 View Repository](https://github.com/maira32/HostelHub.git)
 
 2. **✨ Personal Portfolio** A modern, responsive developer portfolio showcasing my projects, skills, and background. Built with React, Tailwind CSS, and React Icons.  
-   [🔗 View Repository](https://github.com/maira32/React-Portfolio)
+   [🔗 View Repository](https://github.com/maira32/react-portfolio.git)
    
 3. **🎮 Tic-Tac-Toe Game**  
    A simple two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
