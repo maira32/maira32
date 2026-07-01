@@ -32,6 +32,9 @@
 1. **🏠 HostelHub (MERN Stack Project)**  
    A full-stack hostel management system built using **MongoDB, Express.js, React.js, and Node.js**. Hostel owners can manage their hostel residents, store student records, and organize hostel data efficiently through a database-powered web application. Features include a responsive UI, backend APIs, database integration and launched on vercel.
     [🔗 View Repository](https://github.com/maira32/HostelHub.git)
+
+2. **✨ Personal Portfolio** A modern, responsive developer portfolio showcasing my projects, skills, and background. Built with React, Tailwind CSS, and React Icons.  
+   [🔗 View Repository](https://github.com/maira32/React-Portfolio)
    
 3. **🎮 Tic-Tac-Toe Game**  
    A simple two-player Tic-Tac-Toe game built with HTML, CSS, and JavaScript.  
